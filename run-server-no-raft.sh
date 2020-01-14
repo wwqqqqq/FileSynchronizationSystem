@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 src/server_single.py $@
+python3 src/server_raft.py $@
